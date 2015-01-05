@@ -1,4 +1,4 @@
-package DSBitcoins
+package Bitcoins_Proj
 
 import java.security.MessageDigest
 
